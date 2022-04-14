@@ -1,5 +1,5 @@
-**<h1 align="center"> Hey there! :wave: </h2>**
-<p align="justify" style="justify-content: space-between; font-weight: lighter;"> Let me briefly introduce myself: My name is Érika, I'm 26 years old and I live in Espírito Santo, Brazil. 
+**<h1 align="center" style="font-family: Arial;"> Hey there! :wave: </h2>**
+<p style="text-align: justify; font-family: Arial;"> Let me briefly introduce myself: My name is Érika, I'm 26 years old and I live in Espírito Santo, Brazil. 
 
 I'm currently studying **Full-Stack Web Development** at <a href="https://www.betrybe.com/">Trybe</a>. I also have a bachelor's degree in Business Administration from UFES _(Universidade Federal do Espírito Santo)_, several courses in the technology field and a tremendous desire to learn new things, especially about programming, because I believe that's the future and I definitely wanna be a part of it. </p>
 
@@ -9,7 +9,7 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 
 ----
 
-**<h2 align="center"> Here's some statistics :chart_with_upwards_trend: </h2>**
+**<h2 align="center" style="font-family: Arial;"> Here's some statistics :chart_with_upwards_trend: </h2>**
 <br>
 <div style="float: left; align-items: center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme="> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
@@ -18,7 +18,7 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 
 ----
 
-**<h2 align="center"> Skills :rocket: </h2>**
+**<h2 align="center" style="font-family: Arial;"> Skills :rocket: </h2>**
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40" align="center">
@@ -37,7 +37,7 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 
 ----
 
-**<h2 align="center"> How to reach me :busts_in_silhouette: </h2>**
+**<h2 align="center" style="font-family: Arial;"> How to reach me :busts_in_silhouette: </h2>**
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/erg1101">
