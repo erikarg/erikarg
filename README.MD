@@ -11,16 +11,23 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 
 **<h2 align="center"> Here's some statistics </h2>**
 <br>
-<div align="center">
+<div style="display: table-row; float: left border: 1px solid black">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=">
 </div>
 
-<br>
-
-<div align="center">
+<div style="display: table-row; float: right; border: 1px solid black">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 </div>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ----
 
