@@ -1,5 +1,5 @@
 **<h1 align="center"> Hey there! :wave: </h2>**
-<h4 align="justify" font-weight="normal"> Let me briefly introduce myself: My name is Érika, I'm 26 years old and I live in Espírito Santo, Brazil. 
+<h4 align="justify" font-weight="lighter"> Let me briefly introduce myself: My name is Érika, I'm 26 years old and I live in Espírito Santo, Brazil. 
 
 I'm currently studying **Full-Stack Web Development** at <a href="https://www.betrybe.com/">Trybe</a>. I also have a bachelor's degree in Business Administration from UFES _(Universidade Federal do Espírito Santo)_, several courses in the technology field and a tremendous desire to learn new things, especially about programming, because I believe that's the future and I definitely wanna be a part of it. </h3>
 
@@ -10,16 +10,17 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 ----
 
 <br>
+
 **<h2 align="center"> Here's some statistics </h2>**
 <br>
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=chartreuse-dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=chartreuse-dark">
 </div>
 
 <br>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 </div>
 <br>
 
