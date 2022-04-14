@@ -11,12 +11,12 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 
 **<h2 align="center"> Here's some statistics </h2>**
 <br>
-<div style="justify-content: space-evenly; display: flex; float: left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=">
+<div style="justify-content: space-evenly; display: flex; flex-direction: row; float: left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=">
 </div>
 
-<div style="justify-content: space-evenly; float: right">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
+<div style="justify-content: space-evenly; display: flex; flex-direction: row; float: right">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 </div>
 <br>
 
