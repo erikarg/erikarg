@@ -19,15 +19,6 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 </div>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ----
 
