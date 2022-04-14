@@ -12,7 +12,7 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 **<h2 align="center"> Here's some statistics </h2>**
 <br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=chartreuse-dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=">
 </div>
 
 <br>
