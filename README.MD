@@ -13,9 +13,7 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 <br>
 <div style="justify-content: space-evenly; display: flex; float: left">
   <img align=top height="170em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=">
-</div>
 
-<div style="justify-content: space-evenly; display: flex; float: right">
   <img align=top height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 </div>
 <br>
