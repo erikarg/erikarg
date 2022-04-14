@@ -11,9 +11,9 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 
 **<h2 align="center"> Here's some statistics </h2>**
 <br>
-<div style="display: flex; justify-content: space-evenly;">
-  <img align=top height="170em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=">
-  <img align=top height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 </div>
 <br>
 
