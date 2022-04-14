@@ -9,8 +9,6 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 
 ----
 
-<br>
-
 **<h2 align="center"> Here's some statistics </h2>**
 <br>
 <div align="center">
