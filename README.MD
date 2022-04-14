@@ -9,16 +9,16 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 
 ----
 
-**<h2 align="center"> Here's some statistics </h2>**
+**<h2 align="center"> Here's some statistics :chart_with_upwards_trend: </h2>**
 <br>
 <div style="float: left; align-items: center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme="> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme="> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 </div>
 <br>
 
 ----
 
-**<h2 align="center"> Skills </h2>**
+**<h2 align="center"> Skills :computer: </h2>**
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40" align="center">
@@ -37,7 +37,7 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
 
 ----
 
-**<h2 align="center"> How to reach me </h2>**
+**<h2 align="center"> How to reach me :speech_balloon: </h2>**
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/erg1101">
