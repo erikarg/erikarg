@@ -15,7 +15,7 @@ I'm currently studying **Full-Stack Web Development** at <a href="https://www.be
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme=">
 </div>
 
-<div style="display: flex; float: right">
+<div style="float: right">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 </div>
 <br>
