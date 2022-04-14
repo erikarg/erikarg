@@ -1,5 +1,5 @@
-**<h2 align="center"> Hey there! :wave: </h2>**
-<h3 align="justify"> Let me briefly introduce myself: My name is Érika, I'm 26 years old and I live in Espírito Santo, Brazil. 
+**<h1 align="center"> Hey there! :wave: </h2>**
+<h4 align="justify"> Let me briefly introduce myself: My name is Érika, I'm 26 years old and I live in Espírito Santo, Brazil. 
 
 I'm currently studying **Full-Stack Web Development** at <a href="https://www.betrybe.com/">Trybe</a>. I also have a bachelor's degree in Business Administration from UFES _(Universidade Federal do Espírito Santo)_, several courses in the technology field and a tremendous desire to learn new things, especially about programming, because I believe that's the future and I definitely wanna be a part of it. </h3>
 
