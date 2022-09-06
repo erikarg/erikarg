@@ -1,7 +1,13 @@
 **<h1 align="center" style="font-family: Arial;"> Hey there! :wave: </h2>**
-<p style="text-align: justify; font-family: Arial;"> Let me briefly introduce myself: My name is Érika, I'm 26 years old and I live in Espírito Santo, Brazil. 
+<p style="text-align: justify; font-family: Arial;"> :us: Let me briefly introduce myself: My name is Érika, I'm 26 years old and I live in Espírito Santo, Brazil. 
 
 I'm currently studying **Full-Stack Web Development** at <a href="https://www.betrybe.com/">Trybe</a>. I also have a bachelor's degree in Business Administration from UFES _(Universidade Federal do Espírito Santo)_, several courses in the technology field and a tremendous desire to learn new things, especially about programming, because I believe that's the future and I definitely wanna be a part of it. </p>
+
+~
+
+:brazil: Permita-me apresentar brevemente: Me chamo Érika, tenho 26 anos e moro no Espírito Santo, Brasil. 
+
+Atualmente estudo **Desenvolvimento Web Full Stack** na <a href="https://www.betrybe.com/">Trybe</a>. Sou formada em Administração pela Universidade Federal do Espírito Santo, possuo diversos cursos na área de tecnologia e um desejo tremendo de aprender coisas novas, especialmente sobre programação, porque acredito que esse é o futuro e definitivamente quero fazer parte disso.
 
 <div align="center">
 <img src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" weight="250" height="250">
