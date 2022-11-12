@@ -1,59 +1,40 @@
-**<h1 align="center" style="font-family: Arial;"> Hey there! :wave: </h2>**
-<p style="text-align: justify; font-family: Arial;"> :us: Let me briefly introduce myself: My name is Érika, I'm 26 years old and I live in Espírito Santo, Brazil. 
+**<h3 align="left" style="font-family: Arial;"> Hi there! :wave: </h3>**
 
-I'm currently studying **Full-Stack Web Development** at <a href="https://www.betrybe.com/">Trybe</a>. I also have a bachelor's degree in Business Administration from UFES _(Universidade Federal do Espírito Santo)_, several courses in the technology field and a tremendous desire to learn new things, especially about programming, because I believe that's the future and I definitely wanna be a part of it. </p>
+<h4 align="left" style="font-family: Arial;">I'm a Front-End Developer living in Espírito Santo, Brasil.</h4>
+<br/>
 
-~
+<h4 align="left" style="font-family: Arial;">BIO</h4>
 
-:brazil: Permita-me apresentar brevemente: Me chamo Érika, tenho 26 anos e moro no Espírito Santo, Brasil. 
+• :woman_student: I'm currently studying Full-Stack Web Development at <a href="https://www.betrybe.com/">Trybe</a>
+<br/>
+<br/>
+• :zap: Fun facts: I absolutely love cats and want to live my life travelling around the world
+<br/>
 
-Atualmente estudo **Desenvolvimento Web Full Stack** na <a href="https://www.betrybe.com/">Trybe</a>. Sou formada em Administração pela Universidade Federal do Espírito Santo, possuo diversos cursos na área de tecnologia e um desejo tremendo de aprender coisas novas, especialmente sobre programação, porque acredito que esse é o futuro e definitivamente quero fazer parte disso.
+• 💻 I use daily:
 
-<div align="center">
-<img src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" weight="250" height="250">
-</div>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/> <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25"/> <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" height="25"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/> <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25"/> <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 
-----
+• :gear: I also use:
 
-**<h2 align="center" style="font-family: Arial;"> Here's some statistics :chart_with_upwards_trend: </h2>**
-<br>
-<div style="float: left; align-items: center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme="> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
-</div>
-<br>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="25"/> <img alt="Boostrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/> <img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" height="25"/> <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" height="25"/>
 
-----
+• :seedling: Learning all about:
 
-**<h2 align="center" style="font-family: Arial;"> Skills :rocket: </h2>**
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" height="40" width="40" align="center">
-</div>
-<br>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/> 
 
-----
+• :mailbox: Reach me:
 
-**<h2 align="center" style="font-family: Arial;"> How to reach me :busts_in_silhouette: </h2>**
-<br>
-<div align="center">
 <a href="https://www.linkedin.com/in/erg1101">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" align="center">
+<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+</a> <a href="mailto:erikatrue@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
 </a>
+<br/>
+<br/>
 
-<a href="mailto:erikatrue@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" align="center">
-</a>
-</div>
+• :octocat: Statistics:
+<br/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme="> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
+
