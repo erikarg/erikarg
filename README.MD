@@ -1,6 +1,6 @@
 **<h3 align="left" style="font-family: Arial;"> Hi there! :wave: </h3>**
 
-<h4 align="left" style="font-family: Arial;">I'm a Front-End Developer living in Espírito Santo, Brasil.</h4>
+<h4 align="left" style="font-family: Arial;">I'm a Back-end developer living in Espírito Santo, Brasil.</h4>
 <br/>
 
 <h4 align="left" style="font-family: Arial;">BIO</h4>
