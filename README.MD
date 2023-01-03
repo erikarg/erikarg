@@ -38,3 +38,10 @@
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme="> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 
+##### Note:
+
+###### Dear friends,
+
+###### Due to access problems with my old account, which has now been renamed to @erikarg-zz in order for me to recover this username, my statistics are still synchronizing and my repositories has been forked from there.
+  
+###### Thank you for the comprehension!
