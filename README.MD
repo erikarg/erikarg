@@ -33,10 +33,6 @@
 <br/>
 <br/>
 
-• :octocat: Statistics:
-<br/>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erikarg&show_icons=true&theme="> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&layout=compact">
 
 ##### Note:
 
