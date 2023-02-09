@@ -33,9 +33,9 @@
 <br/>
 <br/>
 
-<h4>Some statistics:</h4>
+<h3>Some statistics:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg)](https://github.com/erikarg/github-readme-stats)
 
 
 ##### OBS:
