@@ -3,7 +3,7 @@
 <h4 align="left" style="font-family: Arial;">I'm a Back-end developer living in Espírito Santo, Brasil.</h4>
 <br/>
 
-<h4 align="left" style="font-family: Arial;">BIO</h4>
+<h3 align="left" style="font-family: Arial;">BIO</h3>
 
 • :woman_student: I'm currently studying Full-Stack Web Development at <a href="https://www.betrybe.com/">Trybe</a>
 <br/>
