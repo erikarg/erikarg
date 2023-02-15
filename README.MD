@@ -35,8 +35,5 @@
 
 <h3>Some statistics:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg)](https://github.com/erikarg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikarg&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-##### OBS:
-###### Due to access problems with my old account, which has now been renamed to @erikarg-zz in order for me to recover this username, my statistics were reset and some of my repositories were forked from there.
