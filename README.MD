@@ -5,7 +5,7 @@
 
 <h3 align="left" style="font-family: Arial;">BIO</h3>
 
-• :woman_student: I'm currently studying Full-Stack Web Development at <a href="https://www.betrybe.com/">Trybe</a>
+• :woman_student: I'm currently pursuing a post-graduate degree in Software Engineering at<a href="https://www.pucminas.br/">PUC Minas</a>
 <br/>
 <br/>
 • :zap: Fun facts: I absolutely love cats and want to live my life travelling around the world
