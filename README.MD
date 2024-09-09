@@ -1,6 +1,6 @@
 **<h3 align="left" style="font-family: Arial;"> Hi there! :wave: </h3>**
 
-<h4 align="left" style="font-family: Arial;">I'm a Full Stack developer living in Espírito Santo, Brasil.</h4>
+<h4 align="left" style="font-family: Arial;">I'm a Full Stack web developer living in Espírito Santo, Brasil.</h4>
 <br/>
 
 • :woman_student: I'm currently pursuing a post-graduate degree in Software Engineering at<a href="https://www.pucminas.br/"> PUC Minas</a>
