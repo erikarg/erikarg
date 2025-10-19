@@ -1,6 +1,6 @@
 **<h3 align="left" style="font-family: Arial;"> Hi there! :wave: </h3>**
 
-<h4 align="left" style="font-family: Arial;">I'm a Full Stack web developer living in Espírito Santo, Brasil.</h4>
+<h4 align="left" style="font-family: Arial;">I'm a Full Stack web developer.</h4>
 <br/>
 
 • 💻 My daily stacks:
